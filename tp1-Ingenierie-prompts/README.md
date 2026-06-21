@@ -8,4 +8,7 @@ Ce TP  démontre l'utilisation d'un LLM dans notre projet personnel
 - langchain_ollama : Large Language Model *(LLM)*
 - IPython.display
 
+
+## Question à l'agent et Réponse de ce dernier
+
 <img src="1.png">
