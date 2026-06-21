@@ -3,12 +3,14 @@
 ## Prerequis communs
 pour la bonne exécution de l'agent RAG, il faut installer les paquets suivants en utilisant le gestionnaire uv. 
 
-``bash
+```
     uv add langchain_community
     uv add pypdf 
     uv add langchain_text_splitters
     uv add sentence-transformers
-``
+```
+
+
 
 ## fonctionnalité implémentées
 ### Partie 1
