@@ -12,3 +12,7 @@ Ce TP  démontre l'utilisation d'un LLM dans notre projet personnel
 ## Question à l'agent et Réponse de ce dernier
 
 <img src="1.png">
+
+## RAG
+
+<img src="2.png">
